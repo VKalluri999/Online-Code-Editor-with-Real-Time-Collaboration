@@ -1,44 +1,28 @@
-# Online Code Editor with Real-Time Collaboration
+1\. Clone Repository:
 
-## Getting Started
+- Clone the repository using the following command: git clone [https://github.com/VKalluri999/Online-Code-Editor-with-Real-Time-Collaboration]
+- Alternatively, download and extract the zip file of the repository.
 
-Follow these instructions to set up and run the project successfully on your local machine.
+2\. Install Dependencies:
 
-### 1. Clone Repository
+- Navigate to the project directory in the terminal.
+- Run the following command to install project dependencies:
 
-Clone the repository using the following command:
-```sh
-git clone https://github.com/VKalluri999/Online-Code-Editor-with-Real-Time-Collaboration
-Alternatively, download and extract the zip file of the repository.
+  `                           `npm install
 
-### 2. Install Dependencies
-Navigate to the project directory in the terminal:
+3\. Run Frontend:
 
-sh
-Copy code
-cd Online-Code-Editor-with-Real-Time-Collaboration
-Run the following command to install project dependencies:
+- After installing dependencies, start the frontend server using:
 
-sh
-Copy code
-npm install
-### 3. Run Frontend
-After installing dependencies, start the frontend server using:
+  `                           `npm start
 
-sh
-Copy code
-npm start
-## 4. Run Backend (Sockets)
-Open a new terminal window.
+4\. Run Backend (Sockets):
 
-Navigate to the project directory:
+- Open a new terminal window.
+- Navigate to the project directory.
+- Start the backend server for sockets by running
 
-sh
-Copy code
-cd Online-Code-Editor-with-Real-Time-Collaboration
-Start the backend server for sockets by running:
+  `                            `npm server
 
-sh
-Copy code
-npm server
-Follow these steps to set up and run the project successfully on your local machine.
+- Follow these steps to set up and run the project successfully on your local machine.
+
